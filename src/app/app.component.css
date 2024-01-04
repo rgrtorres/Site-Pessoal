@@ -1,0 +1,20 @@
+.logo {
+    width: 627px;
+}
+
+.logo span {
+    font-size: 100px;
+    color: #fffffffa;
+}
+
+.sublogo {
+    color: #fffffffa;
+    font-size: 20px;
+    text-align: right;
+    margin-top: -25px;
+}
+
+.contact {
+    color: #fffffffa;
+    font-size: 16px;
+}

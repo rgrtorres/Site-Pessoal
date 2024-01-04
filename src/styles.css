@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Poppins:wght@100&family=Questrial&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(0,0,0,0.90);
+    margin: 0;
+    padding: 0;
+}
